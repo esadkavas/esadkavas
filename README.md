@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esadkavas
 - 👀 I’m interested in coding and video games.
-- 🌱 I’m currently learning Python & JavaScript
+- 🌱 I’m currently learning Python & JavaScript & Java
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me -> esadkavas@gmail.com
 
